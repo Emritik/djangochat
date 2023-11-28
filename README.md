@@ -1,3 +1,6 @@
 # djangochat
-In this project we will make a real time chatting app using Django. <br>
+In this project we will make a real time chatting app using Django.
 In this project we are using the Django, Django channels and websockets.
+### Basic Requirement for this project:
+1. Django == 4.0
+2. channels == 3.0.5
